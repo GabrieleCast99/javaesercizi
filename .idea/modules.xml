@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/esercizio_1/esercizio_1.iml" filepath="$PROJECT_DIR$/esercizio_1/esercizio_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_10--Polymorphism2--/esercizio_10--Polymorphism2--.iml" filepath="$PROJECT_DIR$/esercizio_10--Polymorphism2--/esercizio_10--Polymorphism2--.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_2/esercizio_2.iml" filepath="$PROJECT_DIR$/esercizio_2/esercizio_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_3/esercizio_3.iml" filepath="$PROJECT_DIR$/esercizio_3/esercizio_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_4   -Variables Methods Contructor - 02-/esercizio_4   -Variables Methods Contructor - 02-.iml" filepath="$PROJECT_DIR$/esercizio_4   -Variables Methods Contructor - 02-/esercizio_4   -Variables Methods Contructor - 02-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_5 -interfaces-/esercizio_5 -interfaces-.iml" filepath="$PROJECT_DIR$/esercizio_5 -interfaces-/esercizio_5 -interfaces-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_6 -overload-/esercizio_6 -overload-.iml" filepath="$PROJECT_DIR$/esercizio_6 -overload-/esercizio_6 -overload-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_7 -abstraction-override-/esercizio_7 -abstraction-override-.iml" filepath="$PROJECT_DIR$/esercizio_7 -abstraction-override-/esercizio_7 -abstraction-override-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_8 --default methods override--/esercizio_8 --default methods override--.iml" filepath="$PROJECT_DIR$/esercizio_8 --default methods override--/esercizio_8 --default methods override--.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_1/esercizio_1.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_1/esercizio_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_10---19/esercizio_10--Polymorphism2--/esercizio_10--Polymorphism2--.iml" filepath="$PROJECT_DIR$/es_10---19/esercizio_10--Polymorphism2--/esercizio_10--Polymorphism2--.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_2/esercizio_2.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_2/esercizio_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_3/esercizio_3.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_3/esercizio_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_4   -Variables Methods Contructor - 02-/esercizio_4   -Variables Methods Contructor - 02-.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_4   -Variables Methods Contructor - 02-/esercizio_4   -Variables Methods Contructor - 02-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_5 -interfaces-/esercizio_5 -interfaces-.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_5 -interfaces-/esercizio_5 -interfaces-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_6 -overload-/esercizio_6 -overload-.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_6 -overload-/esercizio_6 -overload-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_7 -abstraction-override-/esercizio_7 -abstraction-override-.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_7 -abstraction-override-/esercizio_7 -abstraction-override-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_8 --default methods override--/esercizio_8 --default methods override--.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_8 --default methods override--/esercizio_8 --default methods override--.iml" />
       <module fileurl="file://$PROJECT_DIR$/esercizio_8 -default methods override-/esercizio_8 -default methods override-.iml" filepath="$PROJECT_DIR$/esercizio_8 -default methods override-/esercizio_8 -default methods override-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/esercizio_9--Polymorphism1--/esercizio_9--Polymorphism1--.iml" filepath="$PROJECT_DIR$/esercizio_9--Polymorphism1--/esercizio_9--Polymorphism1--.iml" />
+      <module fileurl="file://$PROJECT_DIR$/es_1---9/esercizio_9--Polymorphism1--/esercizio_9--Polymorphism1--.iml" filepath="$PROJECT_DIR$/es_1---9/esercizio_9--Polymorphism1--/esercizio_9--Polymorphism1--.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/javaesercizi.iml" filepath="$PROJECT_DIR$/.idea/javaesercizi.iml" />
     </modules>
   </component>
