@@ -7,6 +7,14 @@ public class House {
 
 
 
+    @Override
+    public String toString() {
+        return "House{" +
+                "floorsNumber=" + getFloorsNumber() +
+                ", address='" + getAddress() + '\'' +
+                ", residentsNames=" + Arrays.toString(getResidentsNames()) +
+                '}';
+    }
 
     public int getFloorsNumber() {
         return floorsNumber;

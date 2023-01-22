@@ -15,5 +15,6 @@ public class Main {
         scanner.close();
         String houseDetails = String.format("%s\n%s : %s\n%s : %d\n%s : %s", "House Details:", "Address", house.getAddress(), "Number of floors", house.getFloorsNumber(), "Residents' names", Arrays.toString(house.getResidentsNames()));
         System.out.println(houseDetails);
+
     }
 }
