@@ -5,6 +5,5 @@ public class Main {
         Boat Yachts = new Boat();
         Yachts.boatDetails(50,300000);
         Yachts.getBoatWeightAndSpeed();
-
     }
 }
