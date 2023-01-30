@@ -17,11 +17,11 @@ public class Car extends iVehicle{
         System.out.println("The sound of Vehicle is Brum Brum");
     }
 
-    void carPiece(int wheels,int doors,double price){
+    public Car(int wheels,int doors,double price){
         this.numberOfWheels=wheels;
         this.numberOfDoors=doors;
         this.carPrice=price;
-        this.type=null;
+        this.type="car";
 
     }
 }

@@ -8,9 +8,11 @@ public class Boat extends iVehicle {
         System.out.println("The sound of Vehicle is clunch" );
     }
 
-    void boatDetails(double maxSpeed,int weight){
+    public Boat(double maxSpeed,int weight){
         this.maxKnotsSpeed=maxSpeed;
         this.boatKilosWeight=weight;
+        this.type="boat";
+        this.numberOfWheels=0;
     }
 
     void getBoatWeightAndSpeed(){
