@@ -31,7 +31,7 @@ public class Main {
         System.out.println(randomNumbers.size());
         System.out.println("----------");
 
-        Collections.sort(randomNumbers);
+        Collections.sort(randomNumbers, Collections.reverseOrder());
         System.out.println(randomNumbers);
     }
 }
