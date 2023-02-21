@@ -7,13 +7,16 @@ public class Car {
         this.mileage=mileage;
     }
 
+
+    /** @deprecated */
     @Deprecated
     public void printCarDetails() {
         System.out.println("Car model: " + modelName + ", Mileage: " + mileage);
     }
 
-    @Deprecated
+
     public void getCarDetails() {
+        System.out.println("Car details");
         System.out.println("Car model: " + modelName);
         System.out.println("Mileage: " + mileage);
     }
